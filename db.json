@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Sepatu",
+      "price": 899
+    },
+    {
+      "id": 2,
+      "title": "Baju",
+      "price": "499"
+    },
+    {
+      "id": 3,
+      "title": "Jam",
+      "price": 799
+    },
+    {
+      "id": 4,
+      "title": "Celana",
+      "price": 488
+    },
+    {
+      "id": 5,
+      "title": "Jaket",
+      "price": 788
+    }
+  ]
+}
